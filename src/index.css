@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'SohneBold';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url(./assets/Fonts/sohne-700-normal.woff) format('woff');
+  }
+}
+@layer base {
+  @font-face {
+    font-family: 'SohneNormal';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url(./assets/Fonts/sohne-400-normal.woff) format('woff');
+  }
+}
+@layer base {
+  @font-face {
+    font-family: 'Sohne';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url(./assets/Fonts/sohne-500-normal.woff) format('woff');
+  }
+}
+@layer base {
+  @font-face {
+    font-family: 'Source';
+    src: url(./assets/Fonts/source-serif-pro-400.woff) format('woff');
+  }
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Super';
+    src: url(./assets/Fonts/gt-super-400.woff) format('woff');
+  }
+}
