@@ -415,7 +415,7 @@ export default function HomePage() {
                                 </div>
                                 <div className="flex lg:-mt-0  lg:items-center items-start ">
                                   <p>
-                                    <p onClick={BlogDetails} className="text-[#242424] text-[22px] cursor-pointer font-SohneBold w-[90%] lg:h-auto h-38 overflow-hidden  text-[19px] py-6 ">
+                                    <p onClick={BlogDetails} className="text-[#242424] text-[22px] cursor-pointer font-SohneBold w-[90%] lg:h-auto h-38 overflow-hidden   py-6 ">
                                       {post.BlogPostTitle}
                                     </p>
 
