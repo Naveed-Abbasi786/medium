@@ -3,10 +3,10 @@ import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
 import ProfilePic1 from "../assets/img/profilepic1.jpg";
 import ProfilePic2 from "../assets/img/profilepic2.jpg";
 import ProfilePic3 from "../assets/img/profilepic3.jpg";
-import BlogPost1 from "../assets/img/BlogPost1.png";
-import BlogPost2 from "../assets/img/BlogPost2.png";
-import BlogPost3 from "../assets/img/BlogPost3.png";
-import BlogPost4 from "../assets/img/BlogPost4.png";
+import BlogPost1 from "../assets/img/blog-post1.png";
+import BlogPost2 from "../assets/img/blog-post2.png";
+import BlogPost3 from "../assets/img/blog-post3.png";
+import BlogPost4 from "../assets/img/blog-post4.png";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../Components/Navbar";
 export default function HomePage() {
