@@ -27,7 +27,7 @@ export default function DetailPage() {
             height="24"
             fill="none"
             viewBox="0 0 64 64"
-            class="afb cb tp dx"
+            className="afb cb tp dx"
           >
             <path
               fill="#FFC017"
@@ -47,7 +47,7 @@ export default function DetailPage() {
             height="24"
             fill="none"
             viewBox="0 0 64 64"
-            class="afb cb tp dx"
+            className="afb cb tp dx"
           >
             <path
               fill="#FFC017"
@@ -67,7 +67,7 @@ export default function DetailPage() {
             height="24"
             fill="none"
             viewBox="0 0 64 64"
-            class="afb cb tp dx"
+            className="afb cb tp dx"
           >
             <path
               fill="#FFC017"
@@ -87,7 +87,7 @@ export default function DetailPage() {
             height="24"
             fill="none"
             viewBox="0 0 64 64"
-            class="afb cb tp dx"
+            className="afb cb tp dx"
           >
             <path
               fill="#FFC017"
@@ -153,7 +153,7 @@ export default function DetailPage() {
               height="16"
               fill="none"
               viewBox="0 0 64 64"
-              class="px jw"
+              className="px jw"
             >
               <path
                 fill="#FFC017"
@@ -357,7 +357,7 @@ export default function DetailPage() {
                 <MenuItems
                   transition
                   anchor="bottom end"
-                  className="w-52 origin-top-right bg-[#ffff] shadow-lg  rounded-xl border border-white/5 bg-white/5 p-1 text-sm/6 text-white transition duration-100 ease-out [--anchor-gap:var(--spacing-1)] focus:outline-none data-[closed]:scale-95 data-[closed]:opacity-0"
+                  className="w-52 z-50 origin-top-right bg-[#ffff] shadow-lg  rounded-xl border border-white/5  p-1 text-sm/6 text-white transition duration-100 ease-out [--anchor-gap:var(--spacing-1)] focus:outline-none data-[closed]:scale-95 data-[closed]:opacity-0"
                 >
                   <MenuItem>
                     <button className="group flex w-full items-center gap-2 text-black rounded-lg py-1.5 px-3 data-[focus]:bg-gray-200">

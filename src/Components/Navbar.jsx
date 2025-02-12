@@ -7,7 +7,7 @@ export default function Navbar() {
     navigate("/");
   };
   const WritePgae=()=>{
-    navigate("WritePage");
+    navigate("/WritePage");
   }
   const [fouces, Setfocus] = useState(false);
   const [value, Setvalue] = useState("");
